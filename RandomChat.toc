@@ -1,0 +1,7 @@
+﻿## Interface: 50001
+## Title: Random Chat
+## Version: 1.1
+## Author: Choonster
+## Notes: Sends random messages from a predefined list to any chat type.
+
+core.lua
