@@ -4,4 +4,5 @@
 ## Author: Choonster
 ## Notes: Sends random messages from a predefined list to any chat type.
 
+messages.lua
 core.lua
