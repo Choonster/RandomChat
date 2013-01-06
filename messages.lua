@@ -5,7 +5,7 @@
 ---------------------
 
 -- The message groups to choose random messages from.
--- Each group has a unique name after M. This name can contain digits and uppercase letters. Names are used in the slash commands.
+-- Each group has a unique name after M. This name can contain underscores, digits and uppercase letters. Names are used in the slash commands.
 -- The group starts at the opening brace { and ends at the closing brace }. Between these are the messages for the group, each on a new line.
 -- Each message must be wrapped in 'single quotes', "double quotes" or [[double square brackets]] and have a comma or semicolon after the closing quote/bracket.
 -- To use an apostrophe in a 'single-quoted string' or a quotation mark in a "double quoted string", you need to put a backslash in front of it.
