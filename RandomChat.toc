@@ -1,6 +1,6 @@
-﻿## Interface: 50001
+﻿## Interface: 50100
 ## Title: Random Chat
-## Version: 1.1
+## Version: 1.2
 ## Author: Choonster
 ## Notes: Sends random messages from a predefined list to any chat type.
 
